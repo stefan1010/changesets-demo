@@ -1,6 +1,6 @@
 {
   "name": "changesets-demo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/stefan1010/changesets-demo#readme",
   "devDependencies": {
-    "@changesets/cli": "^2.26.0"
+    "@changesets/cli": "2.13.0"
   }
 }
